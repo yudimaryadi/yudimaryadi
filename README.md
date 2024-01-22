@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Yudi Maryadi
-
+     
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer who loves turning ideas into reality through coding. I thrive on challenges and enjoy creating meaningful and impactful applications. Here's a glimpse of who I am and what I do:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🚀 About Me
 
