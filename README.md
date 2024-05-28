@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer who loves tur
 
 ## 💻 Technologies & Tools
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
+- Frontend: React, Vue, Jquery, HTML, CSS, JavaScript,
+- Backend: Node.js, Express, PHP Lumen, MongoDB
 - Other: Git, GitHub, VS Code
 
 ## 🛠️ Projects
